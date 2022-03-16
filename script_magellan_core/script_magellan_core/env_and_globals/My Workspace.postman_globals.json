@@ -1,0 +1,2254 @@
+{
+	"id": "d69bc96f-ca66-48f8-8ddb-88c25b67a5d3",
+	"values": [
+		{
+			"key": "kbn_version",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultCodeCreatedSuccess",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultCodeSuccess",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionCreateAccount",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionCreatePartner",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionCreateThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionCreateThingStateInfo",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionGeneratePullMessage",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionRemoveAccount",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionRemovePartner",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionRemovePullMessage",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionRemoveThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionRemoveThingStateInfo",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionSuccessSignIn",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "statusCodeCreatedSuccess",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "statusCodeSuccess",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlAccountCreateAccount",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlAccountRemoveAccount",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlPartnerCreatePartner",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlPartnerRemovePartner",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlPullMessageGeneratePullMessage",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlPullMessageRemovePullMessage",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlSignin",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlThingCreateThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlThingCreateThingStateInfo",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlThingRemoveThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlThingRemoveThingStateInfo",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_CreateAccount",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_CreatePartner",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_CreateThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_CreateThingStateInfo",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_GeneratePullMessage",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_RemoveAccount",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_RemovePartner",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_RemovePullMessage",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_RemoveThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_RemoveThingStateInfo",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_UserAuthentication",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_CreateAccount",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_CreatePartner",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_CreateThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_CreateThingStateInfo",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_GeneratePullMessage",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RemoveAccount",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RemovePartner",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RemovePullMessage",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RemoveThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RemoveThingStateInfo",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_Signin",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_UserName_AisPartner",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultCodeForbiddenMissingOrInvalidParameter2",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorThePullMessageKeyHasExpiredOrMustNotBeYetValid",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "statusCodeForbidden",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionSuccessControlOneThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ControlThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ControlThing_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultCodeForbiddenMissingOrInvalidParameter",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorParameterXAisAccountKeyMissingOrInvalid",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionCreatedSuccess",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorTheThingIdFieldIsNotObjectId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionSuccess",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultCodeNotFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorTheThingIdIsNotFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "statusCodeNotFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorTheSensorsIsNotFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionSuccessControlManyThings",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ControlThings",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ControlThings_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorIsNotFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorTheThingId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionRemoveGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionSuccessControlOneGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlGroupCreateGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlGroupRemoveGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_CreateGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_RemoveGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ControlThingGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ControlThingGroup_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_CreateGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RemoveGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionCreateGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorTheThingGroupIdFieldIsNotObjectId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorTheThingGroupIdIsNotFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionSuccessControlManyGroups",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ControlThingGroups",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ControlThingGroups_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorTheThingGroupId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorTheThingIsNotFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionRegisterIsSuccess",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheRequestedOperationWasSuccessfully",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlControlThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_RegisHTTP",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RegisHTTP",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorTheImsiThingTokenIsNotFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultCodeUnauthorizedNotFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorTheAccountIsFailed",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "statusCodeUnauthorized",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorTheParameterImsiThingTokenIsMissingOrInvalid",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionReportProcessIsSuccess",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlAsgardHTTPeSimRegister",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlAsgardHTTPeSimReport",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_ReportHTTP",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ReportHTTP",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionConfigProcessIsSuccess",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionCreateConfigGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionRemoveConfigGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlAsgardHTTPeSimConfig",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlConfigGroupCreateConfigGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlConfigGroupRemoveConfigGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_CreateConfigGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_RemoveConfigGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ConfigHTTP",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_CreateConfigGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RemoveConfigGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "{{resultCodeMethodNotAllowed}}",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlAsgardHTTPeSimDelta",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionDeltaProcessIsSuccess",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_DeltaHTTP",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_DeltaHTTP",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionThePullmessageKeyIsNotFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheRequestedOperationCouldNotBeFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultCodeTheTokenIsUntrustedOrInvalid",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheTokenIsUntrustedOrInvalid",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RegisHTTP_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultCodeTheClientRequestedAlreadyExists",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheThingIdentifierRequestedAlreadyExists",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionRemoveThingFromAccount",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlAccountRemoveThingFromAccount",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultCodeTheOperationHasAlreadyExpired",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheOperationHasAlreadyExpired",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ReportHTTP_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheThingTokenRequestedAlreadyExists",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_ConfigHTTP",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ConfigHTTP_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_DeltaHTTP_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_CreatePurchase",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_CreatePurchase",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_CreatePurchase_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionCreatePurchase",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionValidateToken",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_ValidateToken",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ValidateToken",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlValidateToken",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheParameterReserveQuotaInfoIsMissingOrInvalid",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheParameterPurchaseInfoIsMissingOrInvalid",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheCustomerIdFieldIsRequired",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheCustomerIdFieldIsNotObjectId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheCustomerIdIsNotFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheChargingInfoIsAlreadyExisted",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheChargingStatusFieldIsRequired",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlCreatePurchase",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_UpdatePurchase",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_UpdatePurchase",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_UpdatePurchase_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionUpdatePurchase",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionThePurchaseStateFieldIsRequired",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionThePurchaseValueIsNotFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionInquiryPurchase",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_InquiryPurchase",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_InquiryPurchase",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_InquiryPurchase_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionRemoveCustomer",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_DeleteCustomer",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_DeleteCustomer",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_DeleteCustomer_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheCustomerIdIsNotFoundDeleteCustomer",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlDeleteCustomer",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionInquiryThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlThingInquiryThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_InquiryThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_InquiryThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionInquiryAccount",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlAccountInquiryAccount",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_InquiryAccount",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_InquiryAccount",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionInquiryPullMessage",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlPullMessageInquiryPullMessage",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_InquiryPullMessage",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_InquiryPullMessage",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionInquiryConfigGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlConfigGroupInquiryConfigGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_InquiryConfigGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_InquiryConfigGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlInquiryPurchase",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionThePasswordMissingOrInvalid",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_Signin_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheValidateTokenProcessIsNotFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_ValidateToken_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ValidateToken_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheAccessTokenFieldIRequired",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheAccountKeyIsUntrustedOrInvalid",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_CreateThing_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_CreateThing_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionThexaisAccountKeyFieldIsRequired",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheThingNameIsAlreadyExisted",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheIMSIIsAlreadyExisted",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionUpdateThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlThingUpdateThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_UpdateThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_UpdateThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_UpdateThing_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_UpdateThing_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_RemovePartner_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RemoveThing_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_RemoveThing_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_InquiryThing_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_InquiryThing_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionUnauthorizedAccessTokenDontHaveBearerOrDontHaveToken",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultCodeUnauthorizedAccessTokenNotFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionReNewToken",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_ReNewToken",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ReNewToken",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlThingReNewToken",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheParameterRenewTokenIsMissingOrInvalid",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_ReNewToken_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ReNewToken_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheIsNotFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_GenerateThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_GenerateThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionGenerateThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_GenerateThing_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_GenerateThing_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionMappingIMEI",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlThingReGenerateThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_MappingIMEI",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_MappingIMEI",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_MappingIMEI_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_MappingIMEI_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlThingGenerateThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionActivateThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlThingMappingIMEI",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_ActivateThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ActivateThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_ActivateThing_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ActivateThing_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTransferThings",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_TransferThings",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_TransferThings",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_RemoveThingFromAccount",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RemoveThingFromAccount",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlThingTransferThings",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_TransferType_AccountId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_TransferThings_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_TransferThings_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionThexaisTransferValueFieldIsRequired",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_RemoveThingFromAccount_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RemoveThingFromAccount_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorTheThingId2",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionInquiryThingBySupplier",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_InquiryThingBySupplier",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_InquiryThingBySupplier",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_InquiryThingBySupplier_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_InquiryThingBySupplier_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionThexaisSupplierKeyFieldIsRequired",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheSupplierKeyIsUntrustedOrInvalid",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_CreateThingStateInfo_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_CreateThingStateInfo_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheTypeFieldIsRequired",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheFieldTypeIsInvalid",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheSensorFieldIsRequired",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_RemoveThingStateInfo_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RemoveThingStateInfo_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheStateKeyIsNotFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionChangeThingProfile",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_ChangeThingProfile",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ChangeThingProfile",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_TransferType_AccountCode",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ChangeThingProfile_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheThingGroupNameIsAlreadyExisted",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_CreateGroup_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionUpdateGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_UpdateGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_UpdateGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_UpdateGroup_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheGroupIdIsNotFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RemoveGroup_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionInquiryGroup ",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_InquiryGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_InquiryGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionInquiryGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDescInquiryGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_InquiryGroup_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheGroupIDFieldIsNotObjectId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionAddThingToGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_AddThingToGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_AddThingToGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_AddThingToGroup_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlGroupAddThingToGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionIsAlreadyExisted",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionRemoveThingFromGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_RemoveThingFromGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RemoveThingFromGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RemoveThingFromGroup_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheConfigNameIsAlreadyExisted",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheThingIdInConfigGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionUpdateConfigGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_UpdateConfigGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_UpdateConfigGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_UpdateConfigGroup_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheConfigGroupIDIsNotFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RemoveConfigGroup_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheConfigGroupIDIsNotFound2",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_InquiryConfigGroup_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheConfigGroupIDFieldIsNotObjectId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionAddThingToConfigGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_AddThingToConfigGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_AddThingToConfigGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_AddThingToConfigGroup_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_RemoveThingFromConfigGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RemoveThingFromConfigGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionRemoveThingFromConfigGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RemoveThingFromConfigGroup_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_GeneratePullMessage_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheSensors",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheParameterExpireDateIsMissingOrInvalid",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionThePullMessageNameIsAlreadyExisted",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_UpdatePullMessage",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_UpdatePullMessage",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionUpdatePullMessage",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RemovePullMessage_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionThePullMessageIdIsNotFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_InquiryPullMessage_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_UpdatePullMessage_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionCreateRoute",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlRouteAddThingToRoute",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_CreateRoute",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_CreateRoute",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionAddThingToRoute",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionRemoveRoute",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlRouteCreateRoute",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlRouteRemoveRoute",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_AddThingToRoute",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_RemoveRoute",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_AddThingToRoute",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RemoveRoute",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionRemoveThingFromRoute",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_RemoveThingFromRoute",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RemoveThingFromRoute",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RemoveThingFromRoute_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheRouteIdIsNotFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheRouteIdFieldIsNotObjectId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionInquiryQueueRouteMessage",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_InquiryQueueRouteMessage",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_InquiryQueueRouteMessage",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionCreateSystemUser",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionRemoveSystemUser",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlSystemUserCreateSystemUser",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlSystemUserRemoveSystemUser",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_CreateSystemUser",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_RemoveSystemUser",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_CreateSystemUser",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_RemoveSystemUser",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "GetResponse_ThingID2",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultCodeRoleInvalid",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionRoleInvalid",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionAccessTokenExpired",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlGroupInquiryGroup",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionInquiryRoute",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlRouteInquiryRoute",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_InquiryRoute",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_InquiryRoute",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_AddThingToRoute_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_CreateConfigGroup_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheClientDataIsMissingOrInvalidParameter",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheClientRequestedMissingOrInvalidFormat",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorCouldNotBeFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultCodeBadRequest_40000",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "statusCodeBadRequest",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionResetPassword",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_ResetPassword",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ResetPassword",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ResetPassword_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorTheThingGroupId2",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionTheUpdateSystemUserIsNotFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionUpdateSystemUser",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_UpdateSystemUser",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_UpdateSystemUser",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_UpdateSystemUser_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorTheSystemUserId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_CreateAThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_CreateAThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlCentricDeleteAThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlCentricReturnsAListOfThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_DeleteAThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_DeleteAThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_ReturnsAListOfThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ReturnsAListOfThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlCentricCreateAWorker",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlCentricDeleteAWorker",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_CreateAWorker",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_DeleteAWorker",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_GetAWorkerByWorkerId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_CreateAWorker",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_DeleteAWorker",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_GetAWorkerByWorkerId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_CreateAWorker_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_GetAWorkerByWorkerId_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_ReturnsAListOfWorker",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ReturnsAListOfWorker",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlCentricGetAWorkerByWorkerId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_UpdateAWorker",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_UpdateAWorker",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorTheRequestedAlreadyExists",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_UpdateAWorker_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_PartialUpdateAWorker",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_PartialUpdateAWorker",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_DeleteAWorker_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultCodeMethodNotAllowed",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorMethodNotAllowed",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "statusCodeMethodNotAllowed",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_ImportsListOfThingByWorkerId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ImportsListOfThingByWorkerId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "uuid",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlCentricExportsListOfThingsByWorkerId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_ExportsListOfThingsByWorkerId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ExportsListOfThingsByWorkerId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorDuplicatedThingSecret",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorNotSuccess",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorCheckCouldNotBeDuplicated",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorTheLengthOfCharactersIsIncorrect",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlCentricCreateAThing",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_AssignThingsToWorker",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_AssignThingsToWorker",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorThingCouldNotFound",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorTheClientRequestedAlreadyExists",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_AssignThingsToWorker_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_PartialUpdateAWorker_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultCodeInternalServerErrorUnknowError",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorAnUnknownErrorHasCccurred",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "statusCodeInternalServerError",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ImportsListOfThingByWorkerId_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorIsRequired",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorThingNameMustBeBetween",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorTheLengthOfThingIdentifierMustBe",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorTheLengthOfThingSecretMustBe",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorTheLengthOfIMEIMustBe",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "resultDescriptionErrorTheClientRequestedMissingOrInvalidPrefixFormat",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlCentricImportsListOfThingByWorkerId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_ExportsListOfThingsByWorkerId_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlCentricAssignThingsToWorker",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "urlCentricGetAThingByThingId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_GetAThingByThingId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_GetAThingByThingId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_UpdateThingsToWorker",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_UpdateThingsToWorker",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_UpdateThingsToWorker_fail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderDesc_DeleteThingsFromWorkers",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_DeleteThingsFromWorkers",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "x_ais_OrderRef_DeleteThingsFromWorkers_fail",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"name": "My Workspace Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2021-06-09T10:53:17.571Z",
+	"_postman_exported_using": "Postman/7.36.5"
+}
